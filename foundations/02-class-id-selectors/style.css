@@ -1,0 +1,20 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.power {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#blu {
+    font-size: 36px;
+    color: blue;
+}
+
+.verde {
+    font-weight: bold;
+    background-color: lightgreen;
+}
